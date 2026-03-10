@@ -12,7 +12,7 @@ A minimal Chrome extension to control video playback speed on any website.
 ## Installation
 
 ### From Chrome Web Store
-Install directly from the [Chrome Web Store](https://chrome.google.com/u/1/webstore/devconsole/6576491c-d856-48ff-8170-a71701eb058b/gnmhkilmfojejdhkagkhmpbkgkenloop/edit/status).
+Install directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/video-speed-controller/gnmhkilmfojejdhkagkhmpbkgkenloop).
 
 ### Load Unpacked (Developer Mode)
 1. Clone this repository
